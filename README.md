@@ -7,7 +7,7 @@ A Readme Generator that uses Generative AI to create it
 ## Contents
 - [How it works](#How-it-Works)
 - [Commands](#Commands)
-- [Setup](#Setup⚙)
+- [Setup](#Setup)
 
 ## Commands
 
