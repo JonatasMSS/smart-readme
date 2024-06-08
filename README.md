@@ -14,10 +14,10 @@ A Readme Generator that uses Generative AI to create it
 | Command | Action |
 |---------|--------|
 |```Generate Readme```| Create a Readme based on the file tree structure of the current workspace **(Needs configure the api key first)**|
-|``` Show Api ```| Shows the current api token configured|
-|``` Set Api Token ```| Set a new Api Token to use|
-|``` Reset Api Token```| Delete any api token configured on VsCode|
-|``` Get Current Dir```| An util command that shows the current dir of the workspace|
+|```Show Api```| Shows the current api token configured|
+|```Set Api Token```| Set a new Api Token to use|
+|```Reset Api Token```| Delete any api token configured on VsCode|
+|```Get Current Dir```| An util command that shows the current dir of the workspace|
 
 
 ## How it works ⁉️
@@ -33,12 +33,12 @@ After that, you must do:
 
 - ***Set API Key on VSCode***
 
-Use the command ``` Set Api Token```
+Use the command ```Set Api Token```
 
-**Gif aqui** 
+![Set API Token Gif](https://github.com/JonatasMSS/smart-readme/assets/74430293/35330e8f-d658-484c-bc73-967f4c785aeb)
 
 - **Open a workspace or create one**
 - Generate a Readme
-Use the command ``` Generate Readme```
+Use the command ```Generate Readme```
 
 **Outro gif**
