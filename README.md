@@ -43,3 +43,17 @@ Use the command ```Generate Readme```
 
 ![Generate Readme](https://github.com/JonatasMSS/smart-readme/assets/74430293/f2904523-0f87-4f73-97bc-ac2472376979)
 
+## Features
+
+- ```✅```: Added
+- ```❗```: Needs to be added
+
+| Feature | Status |
+|---------|--------|
+| Read archive content| ❗|
+| Allow the user select another versions of the generated readme | ❗|
+| Improve the prompt to generate best readmes| ❗|
+
+
+
+
