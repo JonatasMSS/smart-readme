@@ -9,6 +9,7 @@ A Readme Generator that uses Generative AI to create it
 - [Commands](#Commands)
 - [Setup](#Setup)
 - [Features](#Features)
+- [How to contribute](#How-to-contribute)
 
 ## Commands
 
@@ -55,6 +56,43 @@ Use the command ```Generate Readme```
 | Allow the user select another versions of the generated readme | ❗|
 | Improve the prompt to generate best readmes| ❗|
 
+Claro! Aqui está a tradução para o inglês:
+
+---
+
+## How to contribute
+
+We appreciate your contributions! To contribute, follow these steps:
+
+1. **Fork the repository**
+2. **Clone your fork**
+
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
+
+3. **Create a branch**
+
+    ```bash
+    git checkout -b feat/feature-name
+    ```
+
+4. **Make your changes**
+5. **Commit your changes**
+
+    ```bash
+    git add .
+    git commit -m "Description of the changes"
+    ```
+
+6. **Push your changes**
+
+    ```bash
+    git push origin feat/feature-name
+    ```
+
+7. **Open a Pull Request**
 
 
 
