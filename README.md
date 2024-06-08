@@ -26,7 +26,7 @@ A Readme Generator that uses Generative AI to create it
 
 The smart readme is an extension for VSCode that uses Generative Language to **create a template** to start your readme.
 
-At first, it will collect an API key that you need to use. So, after [configuring](#configuration) your API key, it will read the entire file tree in the workspace to create a JSON string that will be sent to Gemini AI Generative Language, which will return a markdown file with all the text based on the file tree of your workspace. After that, the extension will collect the text and save it to a new file, Readme.md, created in your workspace.
+At first, it will collect an API key that you need to use. So, after [configuring](#Setup) your API key, it will read the entire file tree in the workspace to create a JSON string that will be sent to Gemini AI Generative Language, which will return a markdown file with all the text based on the file tree of your workspace. After that, the extension will collect the text and save it to a new file, Readme.md, created in your workspace.
 ## Setup
 
 - Get the API Key on the [Google AI Studio](https://aistudio.google.com/app)
