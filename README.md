@@ -41,4 +41,5 @@ Use the command ```Set Api Token```
 - Generate a Readme
 Use the command ```Generate Readme```
 
-**Outro gif**
+![Generate Readme](https://github.com/JonatasMSS/smart-readme/assets/74430293/f2904523-0f87-4f73-97bc-ac2472376979)
+
