@@ -11,6 +11,9 @@
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
+  "repository": {
+    "directory": "/src/extension.ts"
+  },
   "contributes": {
     "commands": [
       {
