@@ -8,7 +8,7 @@
   "icon": "assets/logo.jpg",
   "displayName": "Smart Readme",
   "description": "An inteligent Readme generator that can use or not Generative AI to create awesomes readmes!",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },
