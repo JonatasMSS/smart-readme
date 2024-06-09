@@ -1,5 +1,11 @@
 {
   "name": "smart-readme",
+  "publisher": "JonatasMigs",
+  "author": {
+    "name": "Jonatas Miguel de Sousa Soares",
+    "email": "jonatas.miguelss@gmail.com"
+  },
+  "icon": "assets/logo.jpg",
   "displayName": "Smart Readme",
   "description": "An inteligent Readme generator that can use or not Generative AI to create awesomes readmes!",
   "version": "0.0.1",

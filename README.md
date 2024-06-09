@@ -56,9 +56,6 @@ Use the command ```Generate Readme```
 | Allow the user select another versions of the generated readme | ❗|
 | Improve the prompt to generate best readmes| ❗|
 
-Claro! Aqui está a tradução para o inglês:
-
----
 
 ## How to contribute
 
