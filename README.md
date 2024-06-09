@@ -1,3 +1,5 @@
+    
+<img src="https://github.com/JonatasMSS/smart-readme/assets/74430293/1989f343-3da2-40f2-b8da-00722ec271ca" alt="Descrição da imagem" width="200"/>
 
 # Smart Readme Generator 🧠
 
